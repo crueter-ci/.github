@@ -13,13 +13,13 @@ Supported platforms (if applicable):
 - FreeBSD/amd64
 - Solaris/amd64
 
-UNIX platforms will support aarch64 sometime in the near future
+UNIX platforms will support aarch64 sometime in the near future, and macOS support may come eventually
 
 ### Repositories
 
 - [OpenSSL](https://github.com/crueter-ci/OpenSSL) - OpenSSL 3+
-- [SDL2](https://github.com/crueter-ci/SDL2) - SDL2
-- [FFmpeg](https://github.com/crueter-ci/FFmpeg) - FFmpeg 7+
+- [SDL2](https://github.com/crueter-ci/SDL2) (currently private) - SDL2
+- [FFmpeg](https://github.com/crueter-ci/FFmpeg) (currently private) - FFmpeg 7+
 
 ## CMake
 
