@@ -18,7 +18,7 @@ UNIX platforms will support aarch64 sometime in the near future, and macOS suppo
 ### Repositories
 
 - [OpenSSL](https://github.com/crueter-ci/OpenSSL) - OpenSSL 3+
-- [SDL2](https://github.com/crueter-ci/SDL2) (currently private) - SDL2
+- [SDL2](https://github.com/crueter-ci/SDL2) - SDL2
 - [FFmpeg](https://github.com/crueter-ci/FFmpeg) (currently private) - FFmpeg 7+
 
 ## CMake
@@ -27,7 +27,7 @@ Assorted CMake utilities and guides.
 
 ### Repositories
 
-- [CPMUtil.cmake](https://github.com/crueter-ci/CPMUtil) (currently private) - wrapper around [CPM](https://github.com/CPM-cmake/CPM.cmake) focusing on reducing boilerplate and increasing flexibility
+- [CPMUtil.cmake](https://github.com/crueter-ci/CPMUtil) (currently private) - wrapper around [CPM](https://github.com/CPM-cmake/CPM.cmake) focusing on reducing boilerplate and increasing flexibility, with additional utilities for downloading CI packages from this repo
 
 ## Scripting
 
