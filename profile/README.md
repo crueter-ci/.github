@@ -27,7 +27,7 @@ Assorted CMake utilities and guides.
 
 ### Repositories
 
-- [CPMUtil.cmake](https://github.com/crueter-ci/CPMUtil) (currently private) - wrapper around [CPM](https://github.com/CPM-cmake/CPM.cmake) focusing on reducing boilerplate and increasing flexibility, with additional utilities for downloading CI packages from this repo
+- [CPMUtil.cmake](https://github.com/crueter-ci/CPMUtil) (currently private) - wrapper around [CPM](https://github.com/CPM-cmake/CPM.cmake) focusing on reducing boilerplate and increasing flexibility, with additional utilities for downloading CI packages from this organization
 
 ## Scripting
 
